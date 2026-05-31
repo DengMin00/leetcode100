@@ -53,3 +53,4 @@ class Solution(object):
 s=Solution()
 
 strs= ["eat", "tea", "tan", "ate", "nat", "bat"]
+print(s.groupAnagrams(strs))
